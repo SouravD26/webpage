@@ -1,1 +1,1 @@
-# webpage
+Developed a landing page for A2Z Logistic using HTML and CSS, showcasing modern design principles. The project involved creating a user-friendly interface that highlights key logistics services, ensuring seamless navigation and optimal performance across devices.
